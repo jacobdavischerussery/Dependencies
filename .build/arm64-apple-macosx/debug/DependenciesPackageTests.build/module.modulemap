@@ -1,0 +1,4 @@
+module DependenciesPackageTests {
+    header "/Users/jacobdavis/Dependencies/.build/arm64-apple-macosx/debug/DependenciesPackageTests.build/DependenciesPackageTests-Swift.h"
+    requires objc
+}

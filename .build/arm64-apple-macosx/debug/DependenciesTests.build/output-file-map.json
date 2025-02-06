@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jacobdavis/Dependencies/.build/arm64-apple-macosx/debug/DependenciesTests.build/master.swiftdeps"
+  },
+  "/Users/jacobdavis/Dependencies/Tests/DependenciesTests/DependenciesTests.swift": {
+    "dependencies": "/Users/jacobdavis/Dependencies/.build/arm64-apple-macosx/debug/DependenciesTests.build/DependenciesTests.d",
+    "object": "/Users/jacobdavis/Dependencies/.build/arm64-apple-macosx/debug/DependenciesTests.build/DependenciesTests.swift.o",
+    "swiftmodule": "/Users/jacobdavis/Dependencies/.build/arm64-apple-macosx/debug/DependenciesTests.build/DependenciesTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/jacobdavis/Dependencies/.build/arm64-apple-macosx/debug/DependenciesTests.build/DependenciesTests.swiftdeps"
+  }
+}
